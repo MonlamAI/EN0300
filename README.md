@@ -1,5 +1,6 @@
 # MT300 སྤྱོད་འཇུག
 
-- Data collector: @github-user
-- Estimated time: 
-- Time taken: 
+- Data collector: @ngawangtrinley
+- Quality controler: @rigthan
+- Estimated time: 3:00
+- Time taken: 6:00
