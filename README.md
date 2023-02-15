@@ -1,6 +1,6 @@
-# MT300 སྤྱོད་འཇུག
+# EN0300 སྤྱོད་འཇུག
 
 - Data collector: @ngawangtrinley
-- Quality controler: @rigthan
+- PR reviewer: @rigthan
 - Estimated time: 3:00
 - Time taken: 6:00
